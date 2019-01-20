@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Determinism}{1}
+\contentsline {paragraph}{Preface}{1}
+\contentsline {paragraph}{Situation}{2}
+\contentsline {paragraph}{Argument}{3}
+\contentsline {paragraph}{Objection To Premise 2}{3}
+\contentsline {paragraph}{Objection To Premise 3}{3}
+\contentsline {paragraph}{Objection To Premise 4}{4}
+\contentsline {paragraph}{Objection To Premise 5}{4}
+\contentsline {paragraph}{Objection To Premise 1}{5}
+\contentsline {paragraph}{Note}{5}
+\contentsline {paragraph}{Summary}{5}
